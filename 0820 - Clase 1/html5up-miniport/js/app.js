@@ -82,8 +82,6 @@ for (dato in misDatos) {
 
 console.log(misDatos.saludar());
 
-
-
 var botonDePrueba=document.getElementById("miBoton");
 
 botonDePrueba.onclick = function(){alert("Testeando el click")}
